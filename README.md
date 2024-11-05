@@ -19,8 +19,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [GitHub](https://your-solution-url.com)
-- Live Site URL: [live site](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/fincodewiz/social-links-profile)
+- Live Site URL: [live site](https://fincodewiz.github.io/social-links-profile/)
 
 ## My process
 
